@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShweVoice Launcher</string>
+    <string name="accessibility_service_label">ShweVoice Launcher App Controller</string>
+    <string name="accessibility_service_description">မြန်မာအသံဖြင့် App များကို ဖွင့်ခြင်းနှင့် ပိတ်ခြင်း ပြုလုပ်ရန် Accessibility ခွင့်ပြုချက် လိုအပ်ပါသည်။</string>
+</resources>
